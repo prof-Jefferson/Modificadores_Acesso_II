@@ -1,0 +1,15 @@
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\bin\Debug\net8.0\Aula5_Enc_Modificadores.exe
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\bin\Debug\net8.0\Aula5_Enc_Modificadores.deps.json
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\bin\Debug\net8.0\Aula5_Enc_Modificadores.runtimeconfig.json
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\bin\Debug\net8.0\Aula5_Enc_Modificadores.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\bin\Debug\net8.0\Aula5_Enc_Modificadores.pdb
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\obj\Debug\net8.0\Aula5_Enc_Modificadores.GeneratedMSBuildEditorConfig.editorconfig
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\obj\Debug\net8.0\Aula5_Enc_Modificadores.AssemblyInfoInputs.cache
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\obj\Debug\net8.0\Aula5_Enc_Modificadores.AssemblyInfo.cs
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\obj\Debug\net8.0\Aula5_Enc_Modificadores.csproj.CoreCompileInputs.cache
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\obj\Debug\net8.0\Aula5_Enc_Modificadores.sourcelink.json
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\obj\Debug\net8.0\Aula5_Enc_Modificadores.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\obj\Debug\net8.0\refint\Aula5_Enc_Modificadores.dll
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\obj\Debug\net8.0\Aula5_Enc_Modificadores.pdb
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\obj\Debug\net8.0\Aula5_Enc_Modificadores.genruntimeconfig.cache
+D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores\obj\Debug\net8.0\ref\Aula5_Enc_Modificadores.dll

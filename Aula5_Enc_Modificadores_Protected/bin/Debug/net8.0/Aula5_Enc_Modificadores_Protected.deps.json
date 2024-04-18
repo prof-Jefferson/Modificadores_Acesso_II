@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Aula5_Enc_Modificadores_Protected/1.0.0": {
+        "runtime": {
+          "Aula5_Enc_Modificadores_Protected.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Aula5_Enc_Modificadores_Protected/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
