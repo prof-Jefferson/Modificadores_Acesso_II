@@ -9,10 +9,4 @@ public class Cachorro : Animal
     {
         Console.WriteLine("Au au!");
     }
-
-    // Método para "comemorar aniversário" e aumentar a idade
-    public void ComemorarAniversario()
-    {
-        idade++;
-    }
 }

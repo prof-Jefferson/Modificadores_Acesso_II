@@ -9,10 +9,4 @@ public class Gato : Animal
     {
         Console.WriteLine("Miau!");
     }
-
-    // Método para "comemorar aniversário" e aumentar a idade
-    public void ComemorarAniversario()
-    {
-        idade++;
-    }
 }

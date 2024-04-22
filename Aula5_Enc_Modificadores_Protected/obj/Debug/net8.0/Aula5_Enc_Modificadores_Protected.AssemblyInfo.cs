@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Aula5_Enc_Modificadores_Protected")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0fce316cc0579d13c81565fc7788543991ba5a8d")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+d3c4f4df56acadb87773835a4199030e3c2da899")]
 [assembly: System.Reflection.AssemblyProductAttribute("Aula5_Enc_Modificadores_Protected")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Aula5_Enc_Modificadores_Protected")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

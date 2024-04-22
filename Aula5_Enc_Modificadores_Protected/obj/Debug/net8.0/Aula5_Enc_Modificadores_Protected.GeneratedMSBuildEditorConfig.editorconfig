@@ -8,6 +8,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = Aula5_Enc_Modificadores_Protected
-build_property.ProjectDir = D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Aula5_Enc_Modificadores_Protected\
+build_property.ProjectDir = D:\IFPR-2024\Aulas\2024\POO-I\Aula 5 - Encapsulamento e Modificadores de Visibilidade\Aula5_Modificadores\Modificadores_Acesso_II\Aula5_Enc_Modificadores_Protected\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 

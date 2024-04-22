@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 5 - Encapsulamento e Modificadores de Visibilidade\\Aula5_Modificadores\\Aula5_Enc_Modificadores_Protected\\Aula5_Enc_Modificadores_Protected.csproj": {}
+    "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 5 - Encapsulamento e Modificadores de Visibilidade\\Aula5_Modificadores\\Modificadores_Acesso_II\\Aula5_Enc_Modificadores_Protected\\Aula5_Enc_Modificadores_Protected.csproj": {}
   },
   "projects": {
-    "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 5 - Encapsulamento e Modificadores de Visibilidade\\Aula5_Modificadores\\Aula5_Enc_Modificadores_Protected\\Aula5_Enc_Modificadores_Protected.csproj": {
+    "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 5 - Encapsulamento e Modificadores de Visibilidade\\Aula5_Modificadores\\Modificadores_Acesso_II\\Aula5_Enc_Modificadores_Protected\\Aula5_Enc_Modificadores_Protected.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 5 - Encapsulamento e Modificadores de Visibilidade\\Aula5_Modificadores\\Aula5_Enc_Modificadores_Protected\\Aula5_Enc_Modificadores_Protected.csproj",
+        "projectUniqueName": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 5 - Encapsulamento e Modificadores de Visibilidade\\Aula5_Modificadores\\Modificadores_Acesso_II\\Aula5_Enc_Modificadores_Protected\\Aula5_Enc_Modificadores_Protected.csproj",
         "projectName": "Aula5_Enc_Modificadores_Protected",
-        "projectPath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 5 - Encapsulamento e Modificadores de Visibilidade\\Aula5_Modificadores\\Aula5_Enc_Modificadores_Protected\\Aula5_Enc_Modificadores_Protected.csproj",
+        "projectPath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 5 - Encapsulamento e Modificadores de Visibilidade\\Aula5_Modificadores\\Modificadores_Acesso_II\\Aula5_Enc_Modificadores_Protected\\Aula5_Enc_Modificadores_Protected.csproj",
         "packagesPath": "C:\\Users\\jeffj\\.nuget\\packages\\",
-        "outputPath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 5 - Encapsulamento e Modificadores de Visibilidade\\Aula5_Modificadores\\Aula5_Enc_Modificadores_Protected\\obj\\",
+        "outputPath": "D:\\IFPR-2024\\Aulas\\2024\\POO-I\\Aula 5 - Encapsulamento e Modificadores de Visibilidade\\Aula5_Modificadores\\Modificadores_Acesso_II\\Aula5_Enc_Modificadores_Protected\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\jeffj\\AppData\\Roaming\\NuGet\\NuGet.Config"
