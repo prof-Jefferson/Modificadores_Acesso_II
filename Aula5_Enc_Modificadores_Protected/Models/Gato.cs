@@ -1,10 +1,15 @@
-// Classe derivada Gato
+
 public class Gato : Animal
 {
-    // Construtor da classe Gato
     public Gato(int idadeInicial) : base(idadeInicial) {}
 
-    // Método para fazer o gato "miar"
+    public override void ComemorarAniversario()
+    {
+        idade++;
+        OnIdadeAlterada();
+        Console.WriteLine("Gato comemora aniversário!");
+    }
+
     public void Miar()
     {
         Console.WriteLine("Miau!");
